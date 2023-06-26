@@ -6,4 +6,5 @@
 # PERTAMA KITA PILIH NO 1
 ![Screenshot (3)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/51db38c9-525d-41ef-8e12-5470ae22e509)
 # SELANJUTNYA KITA MASUKAN NO PLAT
-![Screenshot (4)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/238eb15e-6889-4377-9d98-360bfd59d35e)
+![Screenshot (5)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/aeef1a14-3a7d-40e8-85bd-d030565ddf98)
+
