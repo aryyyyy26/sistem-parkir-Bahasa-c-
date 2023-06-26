@@ -11,3 +11,4 @@
 # LALU KITA MASUKAN JAM MASUK DAN JAM KELUAR KENDARAAN
 ![Screenshot (6)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/20323c35-6685-4c18-a871-7612f7e42258)
 # LALU KITA MASUKAN TOTAL PEMBAYARAN YANG 1 JAM NYA 2000
+![Screenshot (7)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/220b4b54-418a-4835-a12c-a2fdd5596336)
