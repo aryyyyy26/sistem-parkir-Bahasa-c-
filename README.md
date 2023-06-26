@@ -8,4 +8,5 @@
 # SELANJUTNYA KITA MASUKAN NO PLAT
 ![Screenshot (5)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/aeef1a14-3a7d-40e8-85bd-d030565ddf98)
 ![Screenshot (6)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/3601f1cf-e671-4c17-81d4-2fb201f5f84e)
-
+# LALU KITA MASUKAN JAM MASUK DAN JAM KELUAR KENDARAAN
+![Screenshot (6)](https://github.com/aryyyyy26/sistem-parkir-Bahasa-c-/assets/137295675/20323c35-6685-4c18-a871-7612f7e42258)
